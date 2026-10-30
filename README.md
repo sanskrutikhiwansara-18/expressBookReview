@@ -1,2 +1,1 @@
-# expressBookReview
-book recviwe
+Express Book Review final project implementation.
